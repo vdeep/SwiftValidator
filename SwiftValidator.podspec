@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.exclude_files         = "Validator/AppDelegate.swift"
   s.frameworks            = ['Foundation', 'UIKit']
   s.requires_arc          = true
-  s.swift_version         = "4.2"
+  s.swift_version         = "5.0"
 end
